@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129755036128",
+    "firebase_url": "https://test-ecommerce-analytics.firebaseio.com",
+    "project_id": "test-ecommerce-analytics",
+    "storage_bucket": "test-ecommerce-analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129755036128:android:d482eb915025a476",
+        "android_client_info": {
+          "package_name": "com.henry.wpadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129755036128-vcmbjvoqcb910en7edld7t3i4tsl0sv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.henry.wpadmin",
+            "certificate_hash": "345393931b5f1b6193eedb964c71f72ec05db0d6"
+          }
+        },
+        {
+          "client_id": "129755036128-l6nsb0j8db6tvebui1smn1uscu15bgor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFTGvnI46pm5BRS4Q02EE2yOZKLGCy62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129755036128-l6nsb0j8db6tvebui1smn1uscu15bgor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
